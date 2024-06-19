@@ -16,14 +16,6 @@ ResteInPeace is a robust file deletion utility designed to securely delete files
 2. **Overwrite Method**: Choose from various overwrite methods to securely delete the file.
 3. **Encrypt Method**: Choose from various encryption methods to encrypt the file before deletion.
 4. **Encrypt & Overwrite**: Combine encryption and overwrite methods for maximum security.
-5. **Exit**: Exit the program.
-
-## Encryption Methods
-
-- **AES**: Advanced Encryption Standard with 256-bit key size.
-- **ChaCha20**: Stream cipher with 256-bit key size.
-- **Salsa20**: Stream cipher with 256-bit key size.
-- **DES3**: Triple DES encryption with 192-bit key size.
 
 ## Overwrite Methods
 
@@ -32,3 +24,12 @@ ResteInPeace is a robust file deletion utility designed to securely delete files
 - **Schneier**: Seven-pass overwrite method.
 - **Write Zero**: Single-pass overwrite with zeros.
 - **Write Random**: Single-pass overwrite with random data.
+
+## Encryption Methods
+
+- **AES**: Advanced Encryption Standard with 256-bit key size.
+- **ChaCha20**: Stream cipher with 256-bit key size.
+- **Salsa20**: Stream cipher with 256-bit key size.
+- **DES3**: Triple DES encryption with 192-bit key size.
+
+
