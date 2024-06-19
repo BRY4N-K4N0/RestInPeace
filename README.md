@@ -1,6 +1,6 @@
 # RestInPeace (R.I.P)
 
-ResteInPeace is a robust file deletion utility designed to securely delete files. Utilizing various encryption and overwrite methods, R.I.P ensures that deleted files are irrecoverable.
+ResteInPeace is a file deletion utility designed to securely delete files. Utilizing various encryption and overwrite methods, R.I.P ensures that deleted files are irrecoverable.
 
 ## Features
 
@@ -32,4 +32,15 @@ ResteInPeace is a robust file deletion utility designed to securely delete files
 - **Salsa20**: Stream cipher with 256-bit key size.
 - **DES3**: Triple DES encryption with 192-bit key size.
 
+## Installation
 
+### Prerequisites
+
+- Python 3.x
+- Tkinter
+- PyCryptodome
+
+### Installing Dependencies
+
+```bash
+pip install -r requirements.txt
