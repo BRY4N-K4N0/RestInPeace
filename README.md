@@ -8,7 +8,6 @@ RestInPeace is a file deletion script designed to securely delete files. Utilizi
 - **Multiple Encryption Methods**: Supports AES, ChaCha20, Salsa20, and DES3 encryption methods.
 - **Multiple Overwrite Methods**: Supports DoD 5220.22-M, Gutmann, Schneier, Write Zero, and Write Random overwrite methods.
 - **Detailed Reports**: Generate comprehensive reports detailing the deletion process.
-- **User-Friendly Interface**: Interactive menu-driven interface with colorful outputs.
 
 ## Menu Options
 
