@@ -44,7 +44,7 @@ ResteInPeace is a file deletion utility designed to securely delete files. Utili
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### Running the Program
 
 ```bash
